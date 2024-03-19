@@ -1,0 +1,16 @@
+Excercise
+
+02 - fisher
+
+You're a free spirit living by the sea, and your daily work depends on the size of the waves. There are four different types of waves.
+
+On the first category, you catch fish in your canoe (' ______/ ') and sell them at the market (' (-(-(--)-)-) ') for 100 dollars (' [$(100)$] '), all of which you spend on beer in the evening (' []b ').
+
+On the second category, sharks appear in the sea (' ^~~ '), and you scare them away with your sword (' <%%%|====> ').
+
+On the third category, you nap (' {zzz}°°° '), recharge batteries (' 0% |IIII| 100% '), and drink tea (' c(_) ').
+
+On the fourth category, you must be brave (' ∠ ･`_´･ ') and flee to the center of the island in the company of tigers (' =^..^= '), where your only pastime is playing dominoes (' [::|:::] ').
+
+Your task is to determine based on keywords which category of wave day it is and return that number. However, since the waves can change, you should always return the biggest number indicating the category of waves seen that day.
+If there are no keywords present, return 0.

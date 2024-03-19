@@ -1,0 +1,21 @@
+Ülesanne
+
+02 - fisher
+
+Sa oled vaba hing, kes elab mere kaldal ja see päevatöö sõltub lainete suurusest.On neli erinevat sorti lainet.
+
+Esimese kategooria lainete päeval püüad sa kalu oma kanuus (“ \______/ ”) ja müüd turul
+ (“ (-(-_(-_-)_-)-) “) neid 100 dollari eest (“ [$(100)$] “), mida sa õhtul kõik maha kulutad õlu peale (“ [_]b ”)
+
+Teise kategooria ilmuvad merre aga haid (“ ^~~ ”), keda sa oma mõõgaga
+(“ <%%%|====> ”) minema hirmutama.
+
+Kolmanda kategooria päeval sa tukastad (“ {zzz}°°° ”), laed akusid (“ 0% |IIII| 100% ”)
+ning jood teed (“ c(_) ”).
+
+Neljanda kategooria ajal pead sa olema vapper (“ ∠ ･`_´･ ”) ning põgenema saare keskele tiigrite (“ =^..^= ”)
+seltsi, ainsaks lõbustuseks on sul doomino mäng (“ [::|:::] ”).
+
+Sinu ülesandeks on leida märksõnade järgi, mis kategooria laine päev on ning tagastada see number. Kuna aga lained
+võivad muutuda, pead sa alati tagastama kõige viimase numbri, mis laine kategooria see päev esines.
+Kui ei esine ühtegi märksõna, tagasta 0.

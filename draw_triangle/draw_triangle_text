@@ -1,0 +1,8 @@
+Excercise
+
+01 - draw_triangle
+
+"Draw a triangle iteratively with asterisks (*).
+
+The triangle must be equilateral, and the input is the number of rows. The last row must not be empty.
+Note: Recursion should not be used!"

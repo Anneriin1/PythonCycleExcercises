@@ -1,0 +1,8 @@
+Ülesanne
+
+01 - draw_triangle
+
+Joonista asteriksidest (*) iteratiivselt kolmnurk.
+
+Kolmnurk peab olema võrdhaardeline ja sisendiks on ridade arv.
+NB! Rekursiooni ei tohi kasutada!
